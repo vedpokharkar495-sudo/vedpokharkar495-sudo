@@ -67,45 +67,82 @@
 
 <h2 align="center">📂 Featured Projects 📂</h2>
 <br/>
-<hr>
+<h2 align="center">📂 Featured Projects 📂</h2>
+<br/>
+
 <div align="center">
-  <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations">
-    <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Movie-Recommendations&theme=react"
-        alt="Movie Recommendations GitHub repository card"
-    />
-</a>
-  <!-- Project 1: Movie Recommendations -->
-  <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Movie-Recommendations&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-  </a>
-  
-  <!-- Project 2: BookChatBot -->
-  <a href="https://github.com/vedpokharkar495-sudo/BookChatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=BookChatBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-  </a>
-  
-  <!-- Project 3: Disease Detection -->
-  <a href="https://github.com/vedpokharkar495-sudo/Disease-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Disease-Detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-  </a>
-  
-  <!-- Project 4: SMS Spam Filter -->
-  <a href="https://github.com/vedpokharkar495-sudo/SMS-Spam-Filter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=SMS-Spam-Filter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-  </a>
-  
-  <!-- Project 5: Command (Add a brief, relevant label) -->
-  <a href="https://github.com/vedpokharkar495-sudo/Command">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Command&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-  </a>
-  
-  <!-- Project 6: Langchain -->
-  <a href="https://github.com/vedpokharkar495-sudo/Langchain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Langchain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎬 Movie Recommendations</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations">
+            <img src="https://img.shields.io/badge/🎬-Movie_Recommendations-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>ML-based movie recommendation system</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📚 BookChatBot</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/BookChatBot">
+            <img src="https://img.shields.io/badge/📚-BookChatBot-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>RAG-powered book recommendation chatbot</strong></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏥 Disease Detection</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/Disease-Detection">
+            <img src="https://img.shields.io/badge/🏥-Disease_Detection-FFB347?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>Deep learning for medical diagnosis</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">✉️ SMS Spam Filter</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/SMS-Spam-Filter">
+            <img src="https://img.shields.io/badge/✉️-SMS_Spam_Filter-6C5CE7?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>NLP-based spam detection</strong></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">💻 Command</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/Command">
+            <img src="https://img.shields.io/badge/💻-Command-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>Custom command-line tool</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🦜 Langchain</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/Langchain">
+            <img src="https://img.shields.io/badge/🦜-Langchain_Projects-00B4D8?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>Agentic AI & RAG applications</strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-<hr/>
+
+
+
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <br/>
