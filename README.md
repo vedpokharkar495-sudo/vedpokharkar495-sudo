@@ -60,66 +60,82 @@
 
 ### Agentic AI
 
-
-
+<div>
 <h2 align="center">📂 Featured Projects 📂</h2>
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations">
-        <h3>🎬 Movie Recommendations</h3>
-        <p>ML-based recommendation system</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vedpokharkar495-sudo/BookChatBot">
-        <h3>📚 BookChatBot</h3>
-        <p>RAG-powered book chatbot</p>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/vedpokharkar495-sudo/Disease-Detection">
-        <h3>🏥 Disease Detection</h3>
-        <p>Deep learning diagnosis</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vedpokharkar495-sudo/SMS-Spam-Filter">
-        <h3>✉️ SMS Spam Filter</h3>
-        <p>NLP-based spam detection</p>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/vedpokharkar495-sudo/Command">
-        <h3>💻 Command</h3>
-        <p>Custom CLI tool</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vedpokharkar495-sudo/Langchain">
-        <h3>🦜 Langchain</h3>
-        <p>Agentic AI & RAG</p>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br/>
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎬 Movie Recommendations</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations">
+            <img src="https://img.shields.io/badge/🎬-Movie_Recommendations-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>ML-based movie recommendation system</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📚 BookChatBot</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/BookChatBot">
+            <img src="https://img.shields.io/badge/📚-BookChatBot-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>RAG-powered book recommendation chatbot</strong></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏥 Disease Detection</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/Disease-Detection">
+            <img src="https://img.shields.io/badge/🏥-Disease_Detection-FFB347?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>Deep learning for medical diagnosis</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">✉️ SMS Spam Filter</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/SMS-Spam-Filter">
+            <img src="https://img.shields.io/badge/✉️-SMS_Spam_Filter-6C5CE7?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>NLP-based spam detection</strong></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">💻 Command</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/Command">
+            <img src="https://img.shields.io/badge/💻-Command-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>Custom command-line tool</strong></p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🦜 Langchain</h3>
+        <div align="center">
+          <a href="https://github.com/vedpokharkar495-sudo/Langchain">
+            <img src="https://img.shields.io/badge/🦜-Langchain_Projects-00B4D8?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br>
+          <p><strong>Agentic AI & RAG applications</strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-
 <hr/>
+</div>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <br/>
