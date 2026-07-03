@@ -64,84 +64,57 @@
 </div>
 
 <hr/>
-
-<h2 align="center">📂 Featured Projects 📂</h2>
-<br/>
 <h2 align="center">📂 Featured Projects 📂</h2>
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎬 Movie Recommendations</h3>
-        <div align="center">
-          <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations">
-            <img src="https://img.shields.io/badge/🎬-Movie_Recommendations-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br>
-          <p><strong>ML-based movie recommendation system</strong></p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">📚 BookChatBot</h3>
-        <div align="center">
-          <a href="https://github.com/vedpokharkar495-sudo/BookChatBot">
-            <img src="https://img.shields.io/badge/📚-BookChatBot-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br>
-          <p><strong>RAG-powered book recommendation chatbot</strong></p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏥 Disease Detection</h3>
-        <div align="center">
-          <a href="https://github.com/vedpokharkar495-sudo/Disease-Detection">
-            <img src="https://img.shields.io/badge/🏥-Disease_Detection-FFB347?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br>
-          <p><strong>Deep learning for medical diagnosis</strong></p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">✉️ SMS Spam Filter</h3>
-        <div align="center">
-          <a href="https://github.com/vedpokharkar495-sudo/SMS-Spam-Filter">
-            <img src="https://img.shields.io/badge/✉️-SMS_Spam_Filter-6C5CE7?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br>
-          <p><strong>NLP-based spam detection</strong></p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">💻 Command</h3>
-        <div align="center">
-          <a href="https://github.com/vedpokharkar495-sudo/Command">
-            <img src="https://img.shields.io/badge/💻-Command-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br>
-          <p><strong>Custom command-line tool</strong></p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🦜 Langchain</h3>
-        <div align="center">
-          <a href="https://github.com/vedpokharkar495-sudo/Langchain">
-            <img src="https://img.shields.io/badge/🦜-Langchain_Projects-00B4D8?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br>
-          <p><strong>Agentic AI & RAG applications</strong></p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <!-- Fallback: Direct links with visual cards -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    
+    <!-- Project 1 -->
+    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
+      <h3 style="color: #f0f6fc;">🎬 Movie Recommendations</h3>
+      <p style="color: #8b949e;">ML-based recommendation system using collaborative filtering</p>
+      <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
+    </div>
+
+    <!-- Project 2 -->
+    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
+      <h3 style="color: #f0f6fc;">📚 BookChatBot</h3>
+      <p style="color: #8b949e;">RAG-powered chatbot for book recommendations</p>
+      <a href="https://github.com/vedpokharkar495-sudo/BookChatBot" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
+    </div>
+
+    <!-- Project 3 -->
+    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
+      <h3 style="color: #f0f6fc;">🏥 Disease Detection</h3>
+      <p style="color: #8b949e;">Deep learning model for medical image classification</p>
+      <a href="https://github.com/vedpokharkar495-sudo/Disease-Detection" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
+    </div>
+
+    <!-- Project 4 -->
+    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
+      <h3 style="color: #f0f6fc;">✉️ SMS Spam Filter</h3>
+      <p style="color: #8b949e;">NLP-based spam detection using machine learning</p>
+      <a href="https://github.com/vedpokharkar495-sudo/SMS-Spam-Filter" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
+    </div>
+
+    <!-- Project 5 -->
+    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
+      <h3 style="color: #f0f6fc;">💻 Command</h3>
+      <p style="color: #8b949e;">Custom command-line utility tool</p>
+      <a href="https://github.com/vedpokharkar495-sudo/Command" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
+    </div>
+
+    <!-- Project 6 -->
+    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
+      <h3 style="color: #f0f6fc;">🦜 Langchain</h3>
+      <p style="color: #8b949e;">Agentic AI and RAG-based applications</p>
+      <a href="https://github.com/vedpokharkar495-sudo/Langchain" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
+    </div>
+
+  </div>
 </div>
-
-
 
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
