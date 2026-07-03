@@ -67,22 +67,38 @@
 
 <h2 align="center">📂 Featured Projects 📂</h2>
 <br/>
-
+<hr>
 <div align="center">
-  <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=BookChatBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-  </a>
-  <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations.git">
+  <!-- Project 1: Movie Recommendations -->
+  <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Movie-Recommendations&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
   </a>
-  <a href="#">
+  
+  <!-- Project 2: BookChatBot -->
+  <a href="https://github.com/vedpokharkar495-sudo/BookChatBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=BookChatBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+  </a>
+  
+  <!-- Project 3: Disease Detection -->
+  <a href="https://github.com/vedpokharkar495-sudo/Disease-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Disease-Detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+  </a>
+  
+  <!-- Project 4: SMS Spam Filter -->
+  <a href="https://github.com/vedpokharkar495-sudo/SMS-Spam-Filter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=SMS-Spam-Filter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=data-science-dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+  
+  <!-- Project 5: Command (Add a brief, relevant label) -->
+  <a href="https://github.com/vedpokharkar495-sudo/Command">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Command&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+  </a>
+  
+  <!-- Project 6: Langchain -->
+  <a href="https://github.com/vedpokharkar495-sudo/Langchain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Langchain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
   </a>
 </div>
-
 <hr/>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
