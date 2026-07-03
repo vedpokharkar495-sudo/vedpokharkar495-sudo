@@ -99,7 +99,7 @@
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-frame=true&no-bg=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vedpokharkar495-sudo&theme=matrix&no-frame=true&no-bg=true&row=2&column=4" />
 </div>
 
 <hr/>
