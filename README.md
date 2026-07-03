@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+[Your+Name]!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ved Pokharkar!;" />
 </h1>
 
 <h3 align="center">🚀 AI/ML Engineer | Data Scientist | Agentic AI Enthusiast 🚀</h3>
@@ -14,7 +14,7 @@
  
  💬 Ask me about **Data Science, ML, NLP, or Agentic AI**
  
- 📫 How to reach me: **[Your-Email@example.com]**
+ 📫 How to reach me: **vedpokharkar495@gmail.com**
  
  ⚡ Fun fact: **I love turning data into stories and AI into action!**
 
@@ -56,7 +56,9 @@
 
 ### 📈 Data Science & Analytics
 
+### RAG Devloper
 
+### Agentic AI
 
 
 </div>
@@ -68,16 +70,16 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Langchain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=BookChatBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=rag-application-hub&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Movie-Recommendations&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=deep-learning-playground&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=SMS-Spam-Filter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=data-science-dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=data-science-dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
   </a>
 </div>
 
