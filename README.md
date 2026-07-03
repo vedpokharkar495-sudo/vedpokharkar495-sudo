@@ -69,10 +69,10 @@
 <br/>
 
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=BookChatBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
   </a>
-  <a href="#">
+  <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedpokharkar495-sudo&repo=Movie-Recommendations&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
   </a>
   <a href="#">
