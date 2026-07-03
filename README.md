@@ -61,60 +61,54 @@
 ### Agentic AI
 
 
-</div>
+
 <h2 align="center">📂 Featured Projects 📂</h2>
 <br/>
 
-<div align="center">
-  <!-- Fallback: Direct links with visual cards -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    
-    <!-- Project 1 -->
-    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
-      <h3 style="color: #f0f6fc;">🎬 Movie Recommendations</h3>
-      <p style="color: #8b949e;">ML-based recommendation system using collaborative filtering</p>
-      <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
-    </div>
-
-    <!-- Project 2 -->
-    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
-      <h3 style="color: #f0f6fc;">📚 BookChatBot</h3>
-      <p style="color: #8b949e;">RAG-powered chatbot for book recommendations</p>
-      <a href="https://github.com/vedpokharkar495-sudo/BookChatBot" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
-    </div>
-
-    <!-- Project 3 -->
-    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
-      <h3 style="color: #f0f6fc;">🏥 Disease Detection</h3>
-      <p style="color: #8b949e;">Deep learning model for medical image classification</p>
-      <a href="https://github.com/vedpokharkar495-sudo/Disease-Detection" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
-    </div>
-
-    <!-- Project 4 -->
-    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
-      <h3 style="color: #f0f6fc;">✉️ SMS Spam Filter</h3>
-      <p style="color: #8b949e;">NLP-based spam detection using machine learning</p>
-      <a href="https://github.com/vedpokharkar495-sudo/SMS-Spam-Filter" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
-    </div>
-
-    <!-- Project 5 -->
-    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
-      <h3 style="color: #f0f6fc;">💻 Command</h3>
-      <p style="color: #8b949e;">Custom command-line utility tool</p>
-      <a href="https://github.com/vedpokharkar495-sudo/Command" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
-    </div>
-
-    <!-- Project 6 -->
-    <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; width: 300px; background: #0d1117; margin: 10px;">
-      <h3 style="color: #f0f6fc;">🦜 Langchain</h3>
-      <p style="color: #8b949e;">Agentic AI and RAG-based applications</p>
-      <a href="https://github.com/vedpokharkar495-sudo/Langchain" style="color: #58a6ff; text-decoration: none;">🔗 View Repository →</a>
-    </div>
-
-  </div>
-</div>
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vedpokharkar495-sudo/Movie-Recommendations">
+        <h3>🎬 Movie Recommendations</h3>
+        <p>ML-based recommendation system</p>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vedpokharkar495-sudo/BookChatBot">
+        <h3>📚 BookChatBot</h3>
+        <p>RAG-powered book chatbot</p>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vedpokharkar495-sudo/Disease-Detection">
+        <h3>🏥 Disease Detection</h3>
+        <p>Deep learning diagnosis</p>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vedpokharkar495-sudo/SMS-Spam-Filter">
+        <h3>✉️ SMS Spam Filter</h3>
+        <p>NLP-based spam detection</p>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vedpokharkar495-sudo/Command">
+        <h3>💻 Command</h3>
+        <p>Custom CLI tool</p>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vedpokharkar495-sudo/Langchain">
+        <h3>🦜 Langchain</h3>
+        <p>Agentic AI & RAG</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <br/>
