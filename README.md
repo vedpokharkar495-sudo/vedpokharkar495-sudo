@@ -1,3 +1,63 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+[Your+Name]!;" />
+</h1>
+
+<h3 align="center">🚀 AI/ML Engineer | Data Scientist | Agentic AI Enthusiast 🚀</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **Agentic AI & RAG Applications**
+ 
+ 🌱 I’m exploring **Advanced Deep Learning Architectures**
+ 
+ 💬 Ask me about **Data Science, ML, NLP, or Agentic AI**
+ 
+ 📫 How to reach me: **[Your-Email@example.com]**
+ 
+ ⚡ Fun fact: **I love turning data into stories and AI into action!**
+
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ My Tech Arsenal ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,fastapi,streamlit,tensorflow,pytorch,mysql,postgresql,sqlite" />
+</div>
+
+<div align="center">
+    <h3>🔬 Data Science & ML Stack</h3>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</div>
+
+<div align="center">
+    <h3>📊 BI & Visualization</h3>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</div>
+
+<hr/>
+
+<h2 align="center">🧠 My Expertise Areas 🧠</h2>
+<br/>
+
+<div align="center">
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+
+### 📈 Data Science & Analytics
+
+
+
 
 </div>
 
